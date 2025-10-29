@@ -1,0 +1,5 @@
+{
+  "name": "Copy of ArchAI Studio",
+  "description": "An AI-powered application for architectural visualization enhancement. Generate new images from text prompts and enhance or edit existing architectural renderings using Google Gemini APIs.",
+  "requestFramePermissions": []
+}
